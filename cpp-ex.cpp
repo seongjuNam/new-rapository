@@ -7,6 +7,8 @@ int main(){
     cout << "나이를 입력하세요: ";
     cin >> grade;
 
-    cout << "당신의 나이는" << grade <<"입니다.";
+    
+
+    cout << "변경됬지롱~";
     return 0;
 }
